@@ -1,0 +1,5 @@
+Arquitetura de Software
+
+	Finalidade de um banco de dados é armazenar dados de um sistema.
+	Como nomes, datas, valores, telefones, senhas e etc.
+	Um DB recebe requisições de aplicações e gerencia essas requisições e devolve os dados conforme foi solicitado.
