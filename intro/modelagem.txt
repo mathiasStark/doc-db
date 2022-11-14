@@ -1,0 +1,11 @@
+Modelagem
+	
+	Modelagem conceitual -AD => Administrador de Dados
+		Consiste no rascunho do banco de dados, definido de forma informal. Feito em qualquer programa apenas para exemplificar o modelo.
+	
+	Modelagem Lógica -AD => Administrador de Dados
+		Feito em um programa especifico para modelagem lógica de banco de dados. Modelagem feita através de figuras para representar entidades, atributos e afins.
+	
+	Modelagém Física -DBA =>
+		Ultimo estágio para a construção do banco de dados, são utilizados comandos sql para a criação do Banco de dados. Create, Alter e etc.
+		
